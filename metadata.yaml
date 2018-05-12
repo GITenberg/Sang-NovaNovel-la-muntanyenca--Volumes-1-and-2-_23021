@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25624'
     url: http://www.gutenberg.org/2009/agents/25624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23021#Sang-NovaNovel-la-muntanyenca--Volumes-1-and-2-
 gutenberg_issued: '2007-10-13'
 gutenberg_type: Text
 identifiers:
